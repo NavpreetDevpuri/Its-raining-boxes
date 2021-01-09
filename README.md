@@ -1,7 +1,7 @@
 # Its-raining-boxes
 ![gameplay.gif](./gameplay.gif)
 
-Its raining boxes is game made in pure javscript
+Its raining boxes is a game made in pure javascript
 
 It's raining boxes, and you are stuck on a platform :(.
 Avoid drowning in the water by stacking the boxes and jumping on them.
